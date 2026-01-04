@@ -13,8 +13,9 @@
 ## Artifacts
 - Runbook: docs/Runbook.md
 - Ticket playbooks: docs/Ticket-Playbooks.md
-- Screenshots (redacted): screenshots/
-- Scripts/commands: scripts/
+- Screenshots (redacted): docs/screenshots/
+- Scripts/commands: docs/scripts/
+- Diagrams: docs/diagrams/
 
 ## Common tickets covered
 - Password reset / account unlock
