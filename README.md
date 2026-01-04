@@ -6,7 +6,7 @@
 
 ## Environment
 - Windows Server (Domain Controller): AD DS + DNS
-- Windows 11 client joined to domain
+- Windows 10 Pro client (workgroup)
 - Basic GPO: password policy, mapped drive example
 - Microsoft 365 tenant + Entra ID basics (users/groups)
 
