@@ -1,3 +1,5 @@
+# Status: In progress — domain join + GPO screenshots will be added after the lab is built.
+
 # IT Support Home Lab Runbook (AD DS + GPO + Microsoft 365 / Entra ID)
 
 ## What this demonstrates
